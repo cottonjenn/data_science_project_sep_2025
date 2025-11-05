@@ -1,6 +1,9 @@
 # History files
 .Rhistory
 .Rapp.history
+report.ipynb
+draft_fit_rankings_csv
+
 
 # Session Data files
 .RData

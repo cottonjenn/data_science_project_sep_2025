@@ -6,3 +6,4 @@
 
 **webscraping.ipynb** I scraped data from basketball-reference.com and added this in the analysis
 
+**kings_scouting.db** final sqlite database with processed data

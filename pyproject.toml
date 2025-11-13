@@ -18,4 +18,5 @@ dependencies = [
     "seaborn>=0.13.2",
     "nbformat>=5.10",
     "squarify>=0.4.4",
+    "mplcursors>=0.7",
 ]
